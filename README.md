@@ -3,6 +3,7 @@
 
 <h3> Hi, I'm Navindu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 I'm an aspiring **software engineer** with a passion for exploring **object-oriented programming** and crafting innovative **research projects**. I enjoy pushing the boundaries of technology by diving into exciting fields like:  
 - **Artificial Intelligence (AI)**  
 - **Brain-Computer Interfaces (BCI)**  
